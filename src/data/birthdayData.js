@@ -56,9 +56,9 @@ export const birthdayData = {
   timeline: [
     { date: "The Beginning", title: "Before I knew you", description: "I had no idea my life was about to change.", image: "/images/image3.jpg" },
     { date: "Day One", title: "Our First Conversation", description: "I remember being nervous, and not wanting it to end.", image: "/images/image5.jpg" },
-    { date: "Soon After", title: "Our First Photo", description: "The first picture of us. I still keep it.", image: "/images/image8.jpg" },
+    { date: "Soon After", title: "Our First Photo", description: "The first picture of us. I still keep it.", image: "/images/image4.jpg" },
     { date: "A Favorite Day", title: "Our Favorite Memory", description: "The day I knew for sure.", image: "/images/image12.jpg" },
-    { date: "A Special Day", title: "Something I'll Never Forget", description: "Write the moment that mattered most here.", image: "/images/image14.jpg" },
+    { date: "A Special Day", title: "Something I'll Never Forget", description: "There are moments in life that quietly find a permanent place in your heart. This is one of mine. Looking back at this moment, I can still feel the happiness, the warmth, and the little magic that made it special. Maybe it was just an ordinary day to the world, but to me, it became a memory I’ll carry for a very long time.", image: "/images/image14.jpg" },
     { date: "Today", title: "Your Birthday", description: "And I'm still falling for you.", image: "/images/image6.jpg" },
   ],
 
