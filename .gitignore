@@ -1,0 +1,9 @@
+node_modules/
+dist/
+.impeccable/
+
+# Original copies of the media — the site uses the ones in public/
+/image*.jpg
+/vide*.mp4
+/src/image*
+/public/image8.jpg
